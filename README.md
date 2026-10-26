@@ -15,14 +15,14 @@ A code review is given to analyze the artifact through reviewing prior source co
 #### ENHANCEMENT ONE: SOFTWARE ENGINEERING AND DESIGN
 This enhancement focuses on transferring the project from Python to C++ including proper implementation and coding practices. The goal of the project stays the same with an interactive map still accessible. 
 <code> <a href="https://github.com/BrandonRapoza/brandonrapoza.github.io/tree/Enhancement-One">Enhancement One</a>.</code>
-<code> <a href="./Enhancement-One/Enhancement%20One%20Narrative.docx" download> Narrative </a>
+<a href="./Enhancement-One/Enhancement%20One%20Narrative.docx" download> Narrative </a>
 
 #### ENHANCEMENT TWO: ALGORITHMS AND DATA STRUCTURES
 This enhancement focuses on creating the search and sort algorithms for better application functionality. Search function follows after animal binary ID to show the unique animal along.
 <code> <a href="https://github.com/BrandonRapoza/brandonrapoza.github.io/tree/Enhancement-Two">Enhancement Two</a>.</code>
-<code> <a href="./Enhancement-Two/Enhancement%20Two%20Narrative.docx" download> Narrative </a>
+<a href="./Enhancement-Two/Enhancement%20Two%20Narrative.docx" download> Narrative </a>
 
 #### ENHANCEMENT THREE: DATABASES
 This enhancement focuses on implementing MySQL involvement and CRUD methods to create a better security mindset and apply database configuration for administrative accounts.
 <code> <a href="https://github.com/BrandonRapoza/brandonrapoza.github.io/tree/Enhancement-Three">Enhancement Three</a>.</code>
-<code> <a href="./Enhancement-Three/Enhancement%20Three%20Narrative.docx" download> Narrative </a>
+<a href="./Enhancement-Three/Enhancement%20Three%20Narrative.docx" download> Narrative </a>
